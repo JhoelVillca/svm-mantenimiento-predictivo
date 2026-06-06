@@ -1,3 +1,5 @@
+Para ver el cuaderno haga clic [aquí](Mantenimiento_Predictivo_SVM_JhoelVillca.ipynb)
+
 # Motor de Mantenimiento Predictivo basado en SVM
 
 Este repositorio contiene la arquitectura, el preprocesamiento y el despliegue de un modelo de Machine Learning basado en Maquinas de Vectores de Soporte (SVM). El sistema esta estructurado para entornos de administracion de servidores e infraestructura industrial (Sysadmin), con el objetivo de predecir fallos de hardware en tiempo real evaluando telemetria pura, eliminando asi la dependencia de los mantenimientos preventivos a ciegas.
